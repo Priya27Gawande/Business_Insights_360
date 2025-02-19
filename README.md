@@ -161,3 +161,20 @@ Fact table : It will have the data about the transactions
 
 <img src="https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Data%20Model.png" class="center">
 
+### Dashboard designing
+
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+## Home view
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+
