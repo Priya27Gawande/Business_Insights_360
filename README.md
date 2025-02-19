@@ -177,4 +177,33 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Support
 
+## Info Page
+
+![Info.gif](https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Info%20Page.png)
+
+## Finance View
+
+![Finance.gif](https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Finance%20View.png)
+
+## Sales View
+
+![Sales.gif](https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Sales%20View.png)
+
+## Marketing View
+
+![Marketing.gif](https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Marketing%20View.png)
+
+## Supply chain View
+
+![Supply chain.gif](https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Supply%20Chain%20View.png)
+
+## Executive View
+
+![Executive.gif](https://github.com/Priya27Gawande/Business_Insights_360/blob/main/Report/Executive%20View.png)
+ 
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
 
